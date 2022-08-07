@@ -83,11 +83,11 @@ author:
   name             : "Tomasz Skóra"
   avatar           : "tskora.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  location         : "Warszawa, Poland"
+  employer         : "Institute of Physical Chemistry, Polish Academy of Sciences"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=teeGywoAAAAJ&hl=pl&oi=ao"
-  email            :
+  email            : "tskora93@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Tomasz-Skora-2"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tskora"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/tomasz-skora/"
+  orcid            : "https://orcid.org/0000-0003-4394-4928"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
