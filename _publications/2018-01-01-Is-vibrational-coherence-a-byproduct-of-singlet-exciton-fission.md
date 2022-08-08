@@ -8,4 +8,5 @@ venue: 'The Journal of Physical Chemistry C'
 paperurl: 'https://doi.org/10.1021/acs.jpcc.8b09124'
 citation: ' Marcin Andrzejak,  Tomasz Skóra,  Piotr Petelenz, &quot;Is vibrational coherence a byproduct of singlet exciton fission?.&quot; The Journal of Physical Chemistry C, 2018.'
 ---
+Marcin Andrzejak,  Tomasz Skóra,  Piotr Petelenz
 [Access paper here](https://doi.org/10.1021/acs.jpcc.8b09124){:target="_blank"}

@@ -8,4 +8,5 @@ venue: 'Soft Matter'
 paperurl: 'https://doi.org/10.1039/D2SM00357K'
 citation: ' Edyta Słyk,  Tomasz Skóra,  Svyatoslav Kondrat, &quot;How macromolecules softness affects diffusion under crowding.&quot; Soft Matter, 2022.'
 ---
+Edyta Słyk,  Tomasz Skóra,  Svyatoslav Kondrat
 [Access paper here](https://doi.org/10.1039/D2SM00357K){:target="_blank"}
