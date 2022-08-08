@@ -26,14 +26,14 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+    # "proceeding": {
+    #     "file" : "proceedings.bib",
+    #     "venuekey": "booktitle",
+    #     "venue-pretext": "In the proceedings of ",
+    #     "collection" : {"name":"publications",
+    #                     "permalink":"/publication/"}
         
-    },
+    # },
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
@@ -97,10 +97,12 @@ for pubsource in publist:
 
             #Build Citation from text
             citation = ""
+            authors = ""
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                authors = authors+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
@@ -128,6 +130,9 @@ for pubsource in publist:
             md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
+
+            authors = authors[1:-2]
+            md += "\nauthors: " + '"' + authors + '"'
             
             url = False
             if "url" in b.keys():
