@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Chemistry, Institute of Physical Chemistry, Polish Academy of Sciences, *2018-present*
+* Postgraduate Diploma, Software Development Methods, AGH University of Science and Technology, *2017-2018*
+* PhD in Chemistry, Faculty of Chemistry, Jagiellonian University, *2016-2018 (abandoned)*
+* MSc in Chemistry, Faculty of Chemistry, Jagiellonian University, *2014-2016*
+* BSc in Chemistry, Faculty of Chemistry, Silesian University, *2011-2014*
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-present: Research Assistant
+  * Institute of Physical Chemistry, Polish Academy of Sciences
+  * Duties included: Brownian dynamics simulations of diffusion and reactions in crowded environments
+  * Supervisor: Dr. Svyatoslav Kondrat
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2017: Research Assistant
+  * University of Glasgow
+  * Duties included: Implementation of singlet fission model into vibr_cryst program
+  * Supervisor: Dr. Anna Stradomska-Szymczak
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: English (C1), French (A1), Polish (native),
+* Programming languages: Python, C, Java
+* Version controlling using git,
+* clean code, SOLID design principles,
+* bash scripts, linux command line, LaTeX,
+* Brownian dynamics simulations and data analysis.
 
 Publications
 ======
@@ -42,7 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +54,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of Biophysical Society (since 2020)
