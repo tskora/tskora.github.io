@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: " Diffusion in crowded environments<br/><img src='/images/vibr_coh.jpeg' width="500">"
+excerpt: " Diffusion in crowded environments<br/><img src='/images/vibr_coh.jpeg' width="650" height="441">"
 collection: portfolio
 ---
 
