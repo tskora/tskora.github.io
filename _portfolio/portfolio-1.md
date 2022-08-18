@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "``pyBrown``"
 excerpt: "Diffusion in crowded environments"
 collection: portfolio
 ---
