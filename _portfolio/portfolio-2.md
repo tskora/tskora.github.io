@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 2"
-excerpt: " Vibrational coherences in ultrafast pump-probe spectroscopys<br/><img src='/images/vibr_coh.jpeg'>"
+excerpt: "Vibrational coherences in ultrafast pump-probe spectroscopys<br/><img src='/images/vibr_coh.jpeg'>"
 collection: portfolio
 ---
 
