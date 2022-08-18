@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: " Diffusion in crowded environments<br/><img src='/images/vibr_coh.jpeg'>"
+excerpt: "Short description of portfolio item number 1 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
