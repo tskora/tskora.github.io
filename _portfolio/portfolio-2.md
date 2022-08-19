@@ -4,6 +4,8 @@ excerpt: ""
 collection: portfolio
 ---
 
+Principal investigator: **Prof. Piotr Petelenz**
+
 We combine quantum chemistry computations of ground and excited states and time-dependent perturbation theory in order to model the intensity oscillations in ultrafast pump-probe spectroscopy. Those oscillations encode the information about the excited vibronic states.
 
 <ul>{% for post in site.publications reversed %}
