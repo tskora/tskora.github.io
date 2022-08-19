@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Vibrational coherences in ultrafast pump-probe spectroscopys<br/><img src='/images/vibr_coh.jpeg'>"
+title: "Vibrational coherences in ultrafast pump-probe spectroscopy"
+excerpt: "<img src='/images/vibr_coh.jpeg'></br>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We combine quantum chemistry computations of ground and excited states and time-dependent perturbation theory in order to model the intensity oscillations in ultrafast pump-probe spectroscopy. Those oscillations encode the information about the excited vibronic states.
+
+<ul>{% for post in site.publications reversed %}
+  {% if post.research == "vibr" %}
+  {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}</ul>

@@ -1,6 +1,6 @@
 ---
-title: "``pyBrown``"
-excerpt: "Diffusion in crowded environments"
+title: "Diffusion in crowded environments"
+excerpt: "``pyBrown``"
 collection: portfolio
 ---
 
