@@ -1,6 +1,6 @@
 ---
 title: "Vibrational coherences in ultrafast pump-probe spectroscopy"
-excerpt: "<img src='/images/vibr_coh.jpeg'></br>"
+excerpt: ""
 collection: portfolio
 ---
 
