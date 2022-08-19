@@ -7,7 +7,7 @@ venue: 'The Journal of Physical Chemistry C'
 authors: "Marcin Andrzejak,  Grzegorz Mazur,  Tomasz Skóra,  Piotr Petelenz"
 paperurl: 'https://doi.org/10.1021/acs.jpcc.0c06504'
 citation: 'Andrzejak, M., Mazur, G., Skóra, T. & Petelenz, P. Soft selection rules for femtosecond pump–probe vibrational coherence spectroscopy. The Journal of Physical Chemistry C 124, 23501-23510 (2020)'
-research: "diff"
+research: "vibr"
 ---
 [Access paper here](https://doi.org/10.1021/acs.jpcc.0c06504){:target="_blank"}
 
