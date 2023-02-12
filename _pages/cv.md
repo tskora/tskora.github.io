@@ -19,13 +19,18 @@ Education
 
 Work experience
 ------
-* 2018-present: Research Assistant
+* 2023-present: Postdoctoral Research Assistant
+  * Scientific Computing and Imaging Institute, University of Utah
+  <!-- * Duties included: Brownian dynamics simulations of diffusion and reactions in crowded environments -->
+  * Supervisor: Dr. Tamara Bidone
+
+* 2018-2023: Research Assistant
   * Institute of Physical Chemistry, Polish Academy of Sciences
   * Duties included: Brownian dynamics simulations of diffusion and reactions in crowded environments
   * Supervisor: Dr. Svyatoslav Kondrat
 
 * Spring 2017: Trainee
-  * University of Glasgow
+  * School of Chemistry, University of Glasgow
   * Duties included: Implementation of singlet fission model into vibr_cryst program
   * Supervisor: Dr. Anna Stradomska-Szymczak
   
