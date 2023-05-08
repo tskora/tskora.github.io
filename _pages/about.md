@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tomasz Skóra, MSc"
+title: "Tomasz Skóra, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
