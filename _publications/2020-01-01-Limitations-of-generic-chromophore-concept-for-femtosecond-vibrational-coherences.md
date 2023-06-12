@@ -2,9 +2,9 @@
 title: "Limitations of generic chromophore concept for femtosecond vibrational coherences"
 collection: publications
 permalink: /publication/2020-01-01-Limitations-of-generic-chromophore-concept-for-femtosecond-vibrational-coherences
-date: 2020-01-01
+date: 2020-01-27
 venue: 'The Journal of Physical Chemistry C'
-authors: "Marcin Andrzejak,  Tomasz Skóra,  Piotr Petelenz"
+authors: "Marcin Andrzejak, Tomasz Skóra, Piotr Petelenz"
 paperurl: 'https://doi.org/10.1021/acs.jpcc.9b11772'
 citation: 'Andrzejak, M., Skóra, T. & Petelenz, P. Limitations of generic chromophore concept for femtosecond vibrational coherences. The Journal of Physical Chemistry C 124, 3529-3535 (2020)'
 research: "vibr"

@@ -2,9 +2,9 @@
 title: "Is vibrational coherence a byproduct of singlet exciton fission?"
 collection: publications
 permalink: /publication/2018-01-01-Is-vibrational-coherence-a-byproduct-of-singlet-exciton-fission
-date: 2018-01-01
+date: 2018-12-14
 venue: 'The Journal of Physical Chemistry C'
-authors: "Marcin Andrzejak,  Tomasz Skóra,  Piotr Petelenz"
+authors: "Marcin Andrzejak, Tomasz Skóra, Piotr Petelenz"
 paperurl: 'https://doi.org/10.1021/acs.jpcc.8b09124'
 citation: 'Andrzejak, M., Skóra, T. & Petelenz, P. Is vibrational coherence a byproduct of singlet exciton fission? The Journal of Physical Chemistry C 123, 91–101 (2018)'
 research: "vibr"
