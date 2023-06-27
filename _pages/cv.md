@@ -22,7 +22,7 @@ Work experience
 * 2023-present: Postdoctoral Research Assistant
   * Scientific Computing and Imaging Institute, University of Utah
   <!-- * Duties included: Brownian dynamics simulations of diffusion and reactions in crowded environments -->
-  * Supervisor: Dr. Tamara Bidone
+  * Supervisor: Dr. Tamara Carla Bidone
 
 * 2018-2023: Research Assistant
   * Institute of Physical Chemistry, Polish Academy of Sciences
