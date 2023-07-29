@@ -61,6 +61,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
+Awards
+------
+* 2022: Young researchers IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences (9800 PLN)
+* 2021: Awarded Poster at Microsymposium IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences
+
 Service and leadership
 ------
 * Member of Biophysical Society (since 2020)
