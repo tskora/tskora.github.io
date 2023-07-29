@@ -2,9 +2,9 @@
 title: "Conformation-changing enzymes and macromolecular crowding"
 collection: publications
 permalink: /publication/2021-01-01-Conformation-changing-enzymes-and-macromolecular-crowding
-date: 2021-01-01
+date: 2021-03-25
 venue: 'Physical Chemistry Chemical Physics'
-authors: "Tomasz Skóra,  Mihail Popescu,  Svyatoslav Kondrat"
+authors: "Tomasz Skóra, Mihail N. Popescu, Svyatoslav Kondrat"
 paperurl: 'https://doi.org/10.1039/D0CP06631A'
 citation: 'Skóra, T., Popescu, M. N. & Kondrat, S. Conformation-changing enzymes and macromolecular crowding. Physical Chemistry Chemical Physics 23, 9065–9069 (2021)'
 research: "diff"

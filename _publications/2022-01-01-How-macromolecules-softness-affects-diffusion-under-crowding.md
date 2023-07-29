@@ -2,11 +2,11 @@
 title: "How macromolecules softness affects diffusion under crowding"
 collection: publications
 permalink: /publication/2022-01-01-How-macromolecules-softness-affects-diffusion-under-crowding
-date: 2022-01-01
+date: 2022-06-30
 venue: 'Soft Matter'
-authors: "Edyta Słyk,  Tomasz Skóra,  Svyatoslav Kondrat"
+authors: "Edyta Słyk, Tomasz Skóra, Svyatoslav Kondrat"
 paperurl: 'https://doi.org/10.1039/D2SM00357K'
-citation: 'S􏰀łyk, E. Skóra T., & Kondrat, S. How macromolecules’ softness affects diffusion under crowding. Soft Matter 18, 5366–5370 (2022)'
+citation: 'Słyk, E., Skóra T., & Kondrat, S. How macromolecules’ softness affects diffusion under crowding. Soft Matter 18, 5366–5370 (2022)'
 research: "diff"
 ---
 [Access paper here](https://doi.org/10.1039/D2SM00357K){:target="_blank"}

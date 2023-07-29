@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* PhD in Chemistry, Institute of Physical Chemistry, Polish Academy of Sciences, *2018-present*
+* PhD in Chemistry, Institute of Physical Chemistry, Polish Academy of Sciences, *2018-2023*
 * Postgraduate Diploma, Software Development Methods, AGH University of Science and Technology, *2017-2018*
 * PhD in Chemistry, Faculty of Chemistry, Jagiellonian University, *2016-2018 (abandoned)*
 * MSc in Chemistry, Faculty of Chemistry, Jagiellonian University, *2014-2016*
@@ -22,7 +22,7 @@ Work experience
 * 2023-present: Postdoctoral Research Assistant
   * Scientific Computing and Imaging Institute, University of Utah
   <!-- * Duties included: Brownian dynamics simulations of diffusion and reactions in crowded environments -->
-  * Supervisor: Dr. Tamara Bidone
+  * Supervisor: Dr. Tamara Carla Bidone
 
 * 2018-2023: Research Assistant
   * Institute of Physical Chemistry, Polish Academy of Sciences

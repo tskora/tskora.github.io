@@ -2,9 +2,9 @@
 title: "Macromolecular crowding: how shape and interactions affect diffusion"
 collection: publications
 permalink: /publication/2020-01-01-Macromolecular-crowding-how-shape-and-interactions-affect-diffusion
-date: 2020-01-01
+date: 2020-08-04
 venue: 'The Journal of Physical Chemistry B'
-authors: "Tomasz Skóra,  Farzaneh Vaghefikia,  Jörg Fitter,  Svyatoslav Kondrat"
+authors: "Tomasz Skóra, Farzaneh Vaghefikia, Jörg Fitter, Svyatoslav Kondrat"
 paperurl: 'https://doi.org/10.1021/acs.jpcb.0c04846'
 citation: 'Skóra, T., Vaghefikia, F., Fitter, J. & Kondrat, S. Macromolecular crowding: how shape and interactions affect diffusion. The Journal of Physical Chemistry B 124, 7537–7543 (2020)'
 research: "diff"
