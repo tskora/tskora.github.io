@@ -63,7 +63,7 @@ Teaching
   
 Awards
 ------
-* 2022: Young researchers IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences (9800 PLN)
+* 2022: Young researchers IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences
 * 2021: Awarded Poster at Microsymposium IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences
 
 Service and leadership
