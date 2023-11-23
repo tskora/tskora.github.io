@@ -63,6 +63,7 @@ Teaching
   
 Awards
 ------
+* 2023: Distinction award for best PhD theses, Academic Computer Centre Cyfronet, AGH University of Krakow
 * 2022: Young researchers IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences
 * 2021: Awarded Poster at Microsymposium IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences
 

@@ -16,5 +16,4 @@ Currently, I am a postdoctoral research associate in [Bidone's lab](https://bido
 My primary research interest is the diffusive motion of biologically relevant macromolecules, such as proteins and ribosomes, in crowded  environments akin to biological cells.
 In my research, I harness Brownian dynamics simulations to reveal the generic effects of macromolecules’ properties, e.g., their shape and activity, on the diffusion properties upon crowding.
 I develop a versatile software -- pyBrown -- for simulations of diffusion and reactions accounting for the hydrodynamic interactions.
-One of my current aims is to develop a versatile software for simulations of diffusion and reactions accounting for the hydrodynamic interactions.
 I currently work on modeling dynamic instability of microtubules using Brownian dynamics.
