@@ -63,10 +63,13 @@ Teaching
   
 Awards
 ------
+* 2024: Biophysical Society 2024 Annual Meeting Travel Award, Biophysical Society
 * 2023: Distinction award for best PhD theses, Academic Computer Centre Cyfronet, AGH University of Krakow
 * 2022: Young researchers IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences
 * 2021: Awarded Poster at Microsymposium IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences
 
 Service and leadership
 ------
+* Science popularization at the 25th Science Picnic of Polish Radio and the Copernicus Science Center
 * Member of Biophysical Society (since 2020)
+* Student Scientific Association "Aqua Regia" at the University of Silesia (member 2011-2014; chairman in 2014)
