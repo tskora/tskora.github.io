@@ -3,6 +3,7 @@ title: "Diffusion in crowded environments"
 excerpt: ""
 collection: portfolio
 ---
+
 Principal investigator: **Dr. Svyatoslav Kondrat**
 
 We harness Brownian dynamics simulations to reveal the generic effects of macromolecules’ properties, e.g., shape and activity, on the diffusion coefficients in cells.
