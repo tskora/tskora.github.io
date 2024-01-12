@@ -11,17 +11,16 @@ redirect_from:
 
 <p><q>The ultimate aim of the modern movement in biology is to explain all biology in terms of physics and chemistry</q> &#8211;Francis Crick</p>
 
-<p>The most striking feature of biological cells is that they are overcrowded with diverse biomacromolecules.</p>
+<p>The most striking feature of biological cells is that they are overcrowded with diverse biomacromolecules.
+For instance, approximately 34-44&#x25; of <i>E. coli</i> cytoplasm volume is occupied by macromolecules, which makes it, paraphrasing Skolnick, crowded to a similar extent to Times Square on New Year's Eve (Skolnick, 2016).
+Such crowding impacts the physical chemistry of the intracellular milieu in a complex way.</p>
 
 <figure>
   <img src="../images/crowding_exp.jpg" alt="Macromolecular crowding: direct visualization of degradation microcompartments at the ER membrane" style="width:100%">
   <figcaption>Source: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1905641117">Albert, S., <i>et al.</i> (2020). Direct visualization of degradation microcompartments at the ER membrane. Proceedings of the National Academy of Sciences, 117(2), 1069-1080.</a></figcaption>
 </figure> 
 
-<p>For instance, approximately 34-44&#x25; of <i>E. coli</i> cytoplasm volume is occupied by macromolecules, which makes it crowded to a similar extent to Times Square on New Year's Eve.
-Such crowding impacts the physical chemistry of the intracellular milieu in a complex way.</p>
-
-<p>The aforementioned quickly growing body of high-resolution cell images leads to the emergence of a more precise picture of the biological cells at the nanoscale.
+<p>Quickly growing body of high-resolution cell images leads to the emergence of a more precise picture of the biological cells at the nanoscale.
 In some sense, it is analogous to the accurate and solicitous astronomical observations of XVIth-century Danish astronomer Tycho Brahe, who authored the famous star catalog and noted the precise positions of planets over many years.
 These experimental results then paved the way for his more broadly recognized successors: Johannes Kepler (assistant of Tycho Brahe) and sir Isaac Newton, who revolutionized science by finding general laws governing <i>celestial mechanics</i>.</p>
 
@@ -30,21 +29,30 @@ These experimental results then paved the way for his more broadly recognized su
   <figcaption>Celestial mechanics &#8211; wood engraving. Source: <a href="https://en.wikipedia.org/wiki/File:Flammarion.jpg">Wikipedia.</a></figcaption>
 </figure> 
 
-<p>Nowadays, one of the grand challenges of the XXIst-century science in general, and computational biophysics in particular, is the development of computer code simulating the biological cell in a quantitative and predictive way, which we could name <i>"CELLestial mechanics"</i>.
-While the "stars" of cellular biophysics, i.e., protein structures, are to a large extent cataloged, thanks to ambitious projects such as Protein Data Bank (PDB) and AlphaFold, the tracks over which the "CELLestial" bodies move are still missing.
-Such a piece of code, embodying our best knowledge of the laws governing the intracellular mechanics, would be a great tool in many areas of research and technology, including bioengineering, precision medicine, and the origin of life research.</p>
+<p>Nowadays, one of the grand challenges of the XXIst-century science in general, and computational biophysics in particular, is the development of computer code simulating the biological cell in a quantitative and predictive way, which we could name <i><q>CELLestial mechanics</q></i>.
+While the <q>stars</q> of cellular biophysics, i.e., protein structures, are to a large extent cataloged, thanks to ambitious projects such as <a href="https://www.rcsb.org/">Protein Data Bank</a> and <a href="https://alphafold.ebi.ac.uk/">AlphaFold</a>, the tracks over which the <q>CELLestial</q> bodies move are still missing.</p>
 
 <p>Cell inner workings stem from the microscopic dynamics of the macromolecules constituting it, such as proteins, ribosomes, and nucleic acids.
-However, although we are undoubtedly at the dawn of the exascale computing era, the first-principle simulations of whole cells are currently unattainable and will probably remain so in the coming years. 
-Netz and Eaton estimated that it would take ca. 1 billion years to run such a simulation of one of the tiniest unicellular organisms, <i>M. genitalium</i> (around 3 billion atoms), for the duration of its doubling time, which is ca. 2 hours.
-Assuming that the exponential rise of computational power will continue in line with Moore's law, which is somewhat unrealistic, these simulations would become feasible no earlier than 50 years from now.
-Even the much more coarse-grained treatments, such as Brownian and Stokesian dynamics simulations, are currently at the limit of our computational capabilities when applied to small fragments of cytoplasm.
-Because of that, so far, it is much more feasible to employ reaction-diffusion equations to these types of problems, which for equivalent systems could be solved in a month timescale.</p>
+However, although we are undoubtedly at the dawn of the exascale computing era (Singharoy, 2023), the first-principle simulations of whole cells are currently unattainable and will probably remain so in the coming years. 
+Netz and Eaton estimated that it would take ca. <b>1 billion years</b> to run such a simulation of one of the tiniest unicellular organisms, <i>M. genitalium</i> (around 3 billion atoms), for the duration of its doubling time, which is ca. 2 hours (Netz, 2021).
+Assuming that the exponential rise of computational power will continue in line with Moore's law, which is somewhat unrealistic, these simulations would become feasible no earlier than 50 years from now.</p>
 
-<p>In reaction-diffusion systems, the major bottleneck is not in computation <i>per se</i> but instead in gathering all the relevant information about diffusion and reaction properties from independent experiments and calculations.
-This information cannot be obtained by <i>in vitro</i> experiments or small-scale simulations unless we understand in detail how they are affected when molecules and reactions are transferred to the intracellular environment by, among other factors, macromolecular crowding.</p>
+<p>Thus my broad research goal is to understand the laws of <q>CELLestial mechanics</q> on a coarse-grained, mesoscopic level, which is computationally more feasible and conceptually less complex.
+In contrast to Demis Hassabis, CEO of DeepMind, I want to believe that we are not doomed to machine learning in the pursuit of <i>in silico</i> whole-cell models of the future.</p>
 
-<b>Adapted from <a href="https://ichf.edu.pl/files/BIP/202303DoktoratTomaszSylwesterSkora/main.pdf">my Thesis</a></b>
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=AuO0Y8Iwq0E">
+</iframe> 
+
+<p><b>Adapted from <a href="https://ichf.edu.pl/files/BIP/202303DoktoratTomaszSylwesterSkora/main.pdf">my Thesis</a></b></p>
+
+<p>References:</p>
+
+<ul>
+  <li>(Netz, 2021) Netz, R. R., & Eaton, W. A. (2021). Estimating computational limits on theoretical descriptions of biological cells. Proceedings of the National Academy of Sciences, 118(6), e2022753118.</li>
+  <li>(Singharoy, 2023) Singharoy, A., Pérez, A., & Chipot, C. (2023). Biophysics at the dawn of exascale computers. Biophysical Journal, 122(14), E1-E2.</li>
+  <li>(Skolnick, 2016) Skolnick, J. (2016). Perspective: On the importance of hydrodynamic interactions in the subcellular dynamics of macromolecules. The Journal of Chemical Physics, 145(10).</li>
+</ul>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
