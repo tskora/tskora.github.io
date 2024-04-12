@@ -6,7 +6,7 @@ date: 2023-06-22
 venue: 'Physical Review Letters'
 authors: "Tomasz Skóra, Mathijs Janssen, Andreas Carlson, Svyatoslav Kondrat"
 paperurl: 'https://doi.org/10.1103/PhysRevLett.130.258401'
-citation: 'Skóra, T., Janssen, M., Carlson, A. & Kondrat, S. Crowding-regulated binding of divalent biomolecules. Physical Review Letters 130, 258401 (2023)'
+citation: 'Skóra, T., Janssen, M., Carlson, A., & Kondrat, S. Crowding-regulated binding of divalent biomolecules. Physical Review Letters 130, 258401 (2023)'
 research: "diff"
 ---
 [Access paper here](https://doi.org/10.1103/PhysRevLett.130.258401){:target="_blank"}

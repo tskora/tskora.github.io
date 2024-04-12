@@ -6,7 +6,7 @@ date: 2023-08-17
 venue: 'The Journal of Physical Chemistry B'
 authors: "Tomasz Skóra, Edyta Słyk, Svyatoslav Kondrat"
 paperurl: 'https://doi.org/10.1021/acs.jpcb.3c02383'
-citation: 'Skóra, T., Słyk, E. & Kondrat, S. Minimal Coarse-Grained Model for Immunoglobulin G: Diffusion and Binding under Crowding. The Journal of Physical Chemistry B 127, 7442–7448 (2023)'
+citation: 'Skóra, T., Słyk, E., & Kondrat, S. Minimal Coarse-Grained Model for Immunoglobulin G: Diffusion and Binding under Crowding. The Journal of Physical Chemistry B 127, 7442–7448 (2023)'
 research: "diff"
 ---
 [Access paper here](https://doi.org/10.1021/acs.jpcb.3c02383){:target="_blank"}
