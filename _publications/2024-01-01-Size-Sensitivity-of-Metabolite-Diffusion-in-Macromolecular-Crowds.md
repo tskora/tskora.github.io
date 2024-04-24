@@ -2,11 +2,11 @@
 title: "Size Sensitivity of Metabolite Diffusion in Macromolecular Crowds"
 collection: publications
 permalink: /publication/2024-01-01-Size-Sensitivity-of-Metabolite-Diffusion-in-Macromolecular-Crowds
-date: 2024-04-04
+date: 2024-04-12
 venue: 'Nano Letters'
 authors: "Edyta Raczyłło, Dariusz Gołowicz, Tomasz Skóra, Krzysztof Kazimierczuk, Svyatoslav Kondrat"
 paperurl: 'https://doi.org/10.1021/acs.jpcb.3c02383'
-citation: 'Raczyłło, E., Gołowicz, D., Skóra, T., Kazimierczuk, K., & Kondrat, S. Size Sensitivity of Metabolite Diffusion in Macromolecular Crowds. Nano Letters (2024)'
+citation: 'Raczyłło, E., Gołowicz, D., Skóra, T., Kazimierczuk, K., & Kondrat, S. Size Sensitivity of Metabolite Diffusion in Macromolecular Crowds. Nano Letters 24, 4801–4809 (2024)'
 research: "diff"
 ---
 [Access paper here](https://doi.org/10.1021/acs.jpcb.3c02383){:target="_blank"}
