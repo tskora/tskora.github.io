@@ -6,7 +6,7 @@ date: 2024-02-08
 venue: 'Biophysical Journal (abstract)'
 authors: "Tomasz Skóra, Daniel Beckett, Tamara Carla Bidone"
 paperurl: 'https://doi.org/10.1016/j.bpj.2023.11.1693'
-citation: 'Skóra, T., Beckett, D., Bidone, T. C. Bottom-up coarse-grained model of microtubule dynamics: A bridge between length- and timescales. Biophysical Journal 123, 272a (2024)'
+citation: 'Skóra, T., Beckett, D., & Bidone, T. C. Bottom-up coarse-grained model of microtubule dynamics: A bridge between length- and timescales. Biophysical Journal 123, 272a (2024)'
 research: "cg"
 ---
 [Access paper here](https://doi.org/10.1016/j.bpj.2023.11.1693){:target="_blank"}
