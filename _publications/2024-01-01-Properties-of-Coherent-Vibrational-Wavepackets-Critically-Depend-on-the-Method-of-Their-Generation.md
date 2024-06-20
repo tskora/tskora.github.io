@@ -6,7 +6,7 @@ date: 2024-6-8
 venue: 'The Journal of Physical Chemistry C'
 authors: "Marcin Andrzejak, Grzegorz Mazur, Andrew J. Musser, Piotr Petelenz, Tomasz Skóra"
 paperurl: 'https://doi.org/10.1021/acs.jpcc.4c01485'
-citation: 'Andrzejak, M., Mazur, G., Musser, A. J., Petelenz, P., & Skóra, T. Properties of Coherent Vibrational Wavepackets Critically Depend on the Method of Their Generation. The Journal of Physical Chemistry C (2024)'
+citation: 'Andrzejak, M., Mazur, G., Musser, A. J., Petelenz, P., & Skóra, T. Properties of Coherent Vibrational Wavepackets Critically Depend on the Method of Their Generation. The Journal of Physical Chemistry C 128, 9837–9846 (2024)'
 research: "vibr"
 ---
 [Access paper here](https://doi.org/10.1021/acs.jpcc.4c01485){:target="_blank"}
