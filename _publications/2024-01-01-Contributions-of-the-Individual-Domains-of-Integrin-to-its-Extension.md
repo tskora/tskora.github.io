@@ -6,7 +6,7 @@ date: 2024-04-29
 venue: 'Cytoskeleton'
 authors: "Tomasz Skóra, Onkar Joshi, Anna Yarema, Richard D. Rabbitt, Tamara C. Bidone"
 paperurl: 'http://doi.org/10.1002/cm.21865'
-citation: 'Skóra, T., Joshi, O., Yarema, A., Rabbitt, R. D., & Bidone, T. C. Contributions of the individual domains of αIIbβ3 integrin to its extension: Insights from multiscale modeling. Cytoskeleton (2024)'
+citation: 'Skóra, T., Joshi, O., Yarema, A., Rabbitt, R. D., & Bidone, T. C. Contributions of the individual domains of αIIbβ3 integrin to its extension: Insights from multiscale modeling. Cytoskeleton 81, 393-408 (2024)'
 research: "cg"
 ---
 [Access paper here](http://doi.org/10.1002/cm.21865){:target="_blank"}
