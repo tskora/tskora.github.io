@@ -6,7 +6,7 @@ date: 2024-08-20
 venue: 'Biophysical Journal'
 authors: "Tomasz Skóra"
 paperurl: 'https://doi.org/10.1016/j.bpj.2024.05.034'
-citation: 'Skóra, T. On the importance of the diffusivity gradient term in Brownian dynamics simulations. Biophysical Journal (2024)'
+citation: 'Skóra, T. On the importance of the diffusivity gradient term in Brownian dynamics simulations. Biophysical Journal 123, 2638-2640 (2024)'
 research: "diff"
 ---
 [Access paper here](https://doi.org/10.1016/j.bpj.2024.05.034){:target="_blank"}
