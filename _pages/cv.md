@@ -70,7 +70,7 @@ Awards
 
 Service and leadership
 ------
-* Guest blogger at the Biophysical Society 2024 Annual Meeting
+<!-- * Guest blogger at the Biophysical Society 2024 Annual Meeting -->
 * Science popularization at the 25th Science Picnic of Polish Radio and the Copernicus Science Center
 * Member of Biophysical Society (since 2020)
 * Student Scientific Association "Aqua Regia" at the University of Silesia (member 2011-2014; chairman in 2014)
