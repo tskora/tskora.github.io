@@ -63,6 +63,7 @@ Teaching
   
 Awards
 ------
+* 2024: Second prize in the IPC PAS competition for the best paper published in 2023, Institute of Physical Chemistry, Polish Academy of Sciences
 * 2024: Biophysical Society 2024 Annual Meeting Travel Award, Biophysical Society
 * 2023: Distinction award for best PhD theses, Academic Computer Centre Cyfronet, AGH University of Krakow
 * 2022: Young researchers IPC PAS, Institute of Physical Chemistry, Polish Academy of Sciences
