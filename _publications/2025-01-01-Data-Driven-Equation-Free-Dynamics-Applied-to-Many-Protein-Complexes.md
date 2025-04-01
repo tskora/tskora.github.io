@@ -1,0 +1,14 @@
+---
+title: "Data-Driven Equation-Free Dynamics Applied to Many-Protein Complexes: The Microtubule Tip Relaxation"
+collection: publications
+permalink: /publication/2025-01-01-Data-Driven-Equation-Free-Dynamics-Applied-to-Many-Protein-Complexes
+date: 2025-01-16
+venue: 'Biophysical Journal'
+authors: "Jiangbo Wu, Siva Dasetty, Daniel Beckett, Yihang Wang, Weizhi Xue, Tomasz Skóra, Tamara C. Bidone, Andrew L. Ferguson, Gregory A. Voth"
+paperurl: 'https://doi.org/10.1016/j.bpj.2025.01.009'
+citation: 'Wu, J., Dasetty, S., Beckett, D., Wang, Y., Xue, W., Skóra, T., Bidone, T. C., Ferguson, A. L., & Voth, G. A. Data-Driven Equation-Free Dynamics Applied to Many-Protein Complexes: The Microtubule Tip Relaxation. Biophysical Journal (2025)'
+research: "cg"
+---
+[Access paper here](https://doi.org/10.1016/j.bpj.2025.01.009){:target="_blank"}
+
+Microtubules (MTs) constitute the largest components of the eukaryotic cytoskeleton and play crucial roles in various cellular processes, including mitosis and intracellular transport. The property allowing MTs to cater to such diverse roles is attributed to dynamic instability, which is coupled to the hydrolysis of guanosine-5′-triphosphate (GTP) to guanosine-5′-diphosphate (GDP) within the β-tubulin monomers. Understanding the dynamics and structural features of both GDP- and GTP-complexed MT tips, especially at an all-atom level, remains challenging for both experimental and computational methods because of their dynamic nature and the prohibitive computational demands of simulating large, many-protein systems. This study employs the “equation-free” multiscale computational method to accelerate the relaxation of all-atom simulations of MT tips toward their putative equilibrium conformation. Using large MT lattice systems (14 protofilaments × 8 heterodimers) comprising ∼21–38 million atoms, we applied this multiscale approach to leapfrog through time and nearly double the computational efficiency in realizing relaxed all-atom conformations of GDP- and GTP-complexed MT tips. Commencing from an initial 4 μs unbiased all-atom simulation, we interleave coarse-projective equation-free jumps with short bursts of all-atom molecular dynamics simulation to realize an additional effective simulation time of 1.875 μs. Our 5.875 μs of effective simulation trajectories for each system expose the subtle yet essential differences in the structures of MT tips as a function of whether β-tubulin monomer is complexed with GDP or GTP, as well as the lateral interactions within the MT tip, offering a refined understanding of features underlying MT dynamic instability. The approach presents a robust and generalizable framework for future explorations of large biomolecular systems at atomic resolution.
