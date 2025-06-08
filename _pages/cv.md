@@ -19,29 +19,29 @@ Education
 
 Work experience
 ------
-* 2023-present: Postdoctoral Research Associate
+* 2023-2025: Postdoctoral Research Associate
   * Scientific Computing and Imaging Institute, University of Utah
   <!-- * Duties included: Brownian dynamics simulations of diffusion and reactions in crowded environments -->
   * Principal investigator: Dr. Tamara Carla Bidone
 
 * 2018-2023: Research Assistant
   * Institute of Physical Chemistry, Polish Academy of Sciences
-  * Duties included: Brownian dynamics simulations of diffusion and reactions in crowded environments
+  <!-- * Duties included: Brownian dynamics simulations of diffusion and reactions in crowded environments -->
   * Supervisor: Dr. Svyatoslav Kondrat
 
 * Spring 2017: Trainee
   * School of Chemistry, University of Glasgow
-  * Duties included: Implementation of singlet fission model into vibr_cryst program
+  <!-- * Duties included: Implementation of singlet fission model into vibr_cryst program -->
   * Supervisor: Dr. Anna Stradomska-Szymczak
   
-Skills
+<!-- Skills
 ------
 * Languages: English (C1), French (A1), Polish (native),
 * Programming languages: Python, C, Java
 * Version controlling using git,
 * clean code, SOLID design principles,
 * bash scripts, linux command line, LaTeX,
-* Brownian dynamics simulations and data analysis.
+* Brownian dynamics simulations and data analysis. -->
 
 Publications
 ------
