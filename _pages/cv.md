@@ -19,6 +19,9 @@ Education
 
 Work experience
 ------
+* 2025-2028: Junior Group Leader
+  * Faculty of Physics, University of Warsaw
+
 * 2023-2025: Postdoctoral Research Associate
   * Scientific Computing and Imaging Institute, University of Utah
   <!-- * Duties included: Brownian dynamics simulations of diffusion and reactions in crowded environments -->
@@ -43,6 +46,10 @@ Work experience
 * bash scripts, linux command line, LaTeX,
 * Brownian dynamics simulations and data analysis. -->
 
+Grants
+------
+* 2025-2028: Polish Returns grant for a project titled: "From Coarse Grains to Atoms and Back: A Rigorous Multiscale Modeling Approach to Diffusion Under Macromolecular Crowding"
+
 Publications
 ------
   <ul>{% for post in site.publications reversed %}
@@ -60,7 +67,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+
 Awards
 ------
 * 2024: Second prize in the IPC PAS competition for the best paper published in 2023, Institute of Physical Chemistry, Polish Academy of Sciences
