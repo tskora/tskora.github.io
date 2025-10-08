@@ -20,7 +20,7 @@ Education
 Work experience
 ------
 * 2025-2028: Assistant Professor
-  * Chair of Complex Systems Modelling, Institute of Theoretical Physics, Faculty of Physics, University of Warsaw
+  * Department of Complex Systems Modelling, Institute of Theoretical Physics, Faculty of Physics, University of Warsaw
 
 * 2023-2025: Postdoctoral Research Associate
   * Scientific Computing and Imaging Institute, University of Utah
