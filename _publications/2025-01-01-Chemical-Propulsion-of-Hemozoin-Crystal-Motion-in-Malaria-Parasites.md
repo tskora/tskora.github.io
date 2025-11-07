@@ -6,7 +6,7 @@ date: 2025-10-28
 venue: 'Proceedings of the National Academy of Sciences'
 authors: "Tomasz Skóra, Erica M. Hastings, Keith R. Carney, Henry C. Fu, Tamara C. Bidone, Paul A. Sigala"
 paperurl: 'https://doi.org/10.1073/pnas.2513845122'
-citation: 'Skóra T., Hastings, E. M., Carney, K. R., Fu, H. C., Bidone, T. C., & Sigala, P. A. Chemical propulsion of hemozoin crystal motion in malaria parasites. BioRxiv (2025)'
+citation: 'Skóra T., Hastings, E. M., Carney, K. R., Fu, H. C., Bidone, T. C., & Sigala, P. A. Chemical propulsion of hemozoin crystal motion in malaria parasites. Proceedings of the National Academy of Sciences 122(44), e2513845122 (2025)'
 research: "diff"
 ---
 [Access paper here](https://doi.org/10.1073/pnas.2513845122){:target="_blank"}

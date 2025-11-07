@@ -3,10 +3,10 @@ title: "On the Curvature and Relaxation of Microtubule Plus-end Tips"
 collection: publications
 permalink: /publication/2025-01-01-On-the-Curvature-and-Relaxation-of-Microtubule-Plus-end-Tips
 date: 2025-05-26
-venue: 'BioRxiv'
+venue: 'Biophysical Journal'
 authors: "Tomasz Skóra, Jiangbo Wu, Daniel Beckett, Weizhi Xure, Gregory A. Voth, Tamara C. Bidone"
 paperurl: 'https://doi.org/10.1101/2025.05.23.655844'
-citation: 'Skóra T., Wu, J., Beckett, D., Xue, W, Voth, G. A.. & Bidone, T. C. On the Curvature and Relaxation of Microtubule Plus-end Tips. BioRxiv (2025)'
+citation: 'Skóra T., Wu, J., Beckett, D., Xue, W, Voth, G. A.. & Bidone, T. C. On the Curvature and Relaxation of Microtubule Plus-end Tips. Biophysical Journal (2025)'
 research: "cg"
 ---
 [Access paper here](https://doi.org/10.1101/2025.05.23.655844){:target="_blank"}
