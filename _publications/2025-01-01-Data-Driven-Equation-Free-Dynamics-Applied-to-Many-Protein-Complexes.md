@@ -2,11 +2,11 @@
 title: "Data-Driven Equation-Free Dynamics Applied to Many-Protein Complexes: The Microtubule Tip Relaxation"
 collection: publications
 permalink: /publication/2025-01-01-Data-Driven-Equation-Free-Dynamics-Applied-to-Many-Protein-Complexes
-date: 2025-01-16
+date: 2025-11-18
 venue: 'Biophysical Journal'
 authors: "Jiangbo Wu, Siva Dasetty, Daniel Beckett, Yihang Wang, Weizhi Xue, Tomasz Skóra, Tamara C. Bidone, Andrew L. Ferguson, Gregory A. Voth"
 paperurl: 'https://doi.org/10.1016/j.bpj.2025.01.009'
-citation: 'Wu, J., Dasetty, S., Beckett, D., Wang, Y., Xue, W., Skóra, T., Bidone, T. C., Ferguson, A. L., & Voth, G. A. Data-Driven Equation-Free Dynamics Applied to Many-Protein Complexes: The Microtubule Tip Relaxation. Biophysical Journal (2025)'
+citation: 'Wu, J., Dasetty, S., Beckett, D., Wang, Y., Xue, W., Skóra, T., Bidone, T. C., Ferguson, A. L., & Voth, G. A. Data-Driven Equation-Free Dynamics Applied to Many-Protein Complexes: The Microtubule Tip Relaxation. Biophysical Journal 124, 3853-3866 (2025)'
 research: "cg"
 ---
 [Access paper here](https://doi.org/10.1016/j.bpj.2025.01.009){:target="_blank"}
