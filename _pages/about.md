@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Department of Complex Systems Modeling, Institute of Theoretical Physics, Faculty of Physics, University of Warsaw where I lead the [Cytoplasm Dynamics and Complexity Group](https://www.fuw.edu.pl/~tskora/).
+I am an Assistant Professor at the Department of Complex Systems Modeling, Institute of Theoretical Physics, Faculty of Physics, University of Warsaw where I lead the [Cytoplasm Dynamics and Complexity Group](https://www.fuw.edu.pl/~tskora/en/).
 Our primary research lies at the intersection of statistical physics and cell biology.
 We investigate the fundamental laws governing the diffusive motion of essential cellular components -— such as proteins and ribosomes —- within the highly crowded environment of the biological cell.
 To rigorously address this complex problem, we employ a multiscale modeling approach, spanning from all-atom Molecular Dynamics simulations through coarse-grained Brownian Dynamics up to lattice models and statistical mechanics

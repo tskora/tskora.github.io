@@ -20,6 +20,7 @@ Education
 Work experience
 ------
 * 2025-2028: Assistant Professor
+  * Head of the [Cytoplasm Dynamics and Complexity Group](https://www.fuw.edu.pl/~tskora/en/)
   * Department of Complex Systems Modelling, Institute of Theoretical Physics, Faculty of Physics, University of Warsaw
 
 * 2023-2025: Postdoctoral Research Associate
@@ -78,7 +79,6 @@ Awards
 
 Service and leadership
 ------
-<!-- * Guest blogger at the Biophysical Society 2024 Annual Meeting -->
 * Science popularization at the 25th Science Picnic of Polish Radio and the Copernicus Science Center
 * Member of Biophysical Society (since 2020)
 * Student Scientific Association "Aqua Regia" at the University of Silesia (member 2011-2014; chairman in 2014)

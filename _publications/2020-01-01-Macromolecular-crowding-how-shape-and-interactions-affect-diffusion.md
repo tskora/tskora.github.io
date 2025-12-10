@@ -8,6 +8,7 @@ authors: "Tomasz Skóra, Farzaneh Vaghefikia, Jörg Fitter, Svyatoslav Kondrat
 paperurl: 'https://doi.org/10.1021/acs.jpcb.0c04846'
 citation: 'Skóra, T., Vaghefikia, F., Fitter, J., & Kondrat, S. Macromolecular crowding: how shape and interactions affect diffusion. The Journal of Physical Chemistry B 124, 7537–7543 (2020)'
 research: "diff"
+note: "**Highly Cited**"
 ---
 [Access paper here](https://doi.org/10.1021/acs.jpcb.0c04846){:target="_blank"}
 
