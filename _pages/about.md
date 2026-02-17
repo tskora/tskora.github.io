@@ -18,4 +18,3 @@ I completed my PhD at the Institute of the Physical Chemistry of the Polish Acad
 I then held a postdoctoral research associate position in [Bidone's lab](https://bidone.bme.utah.edu/) at the Scientific Computing and Imaging Institute, University of Utah
 
 Our group’s current research is supported by the Polish Returns grant from the Polish National Agency for Academic Exchange (NAWA).
-**If you are interested in applying statistical physics and computational methods to fundamental problems in cell biology, please visit [our group website](https://www.fuw.edu.pl/~tskora/) for information on PhD opportunities.**
