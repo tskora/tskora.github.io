@@ -6,7 +6,7 @@ date: 2025-07-04
 venue: 'Biophysical Journal'
 authors: "Tomasz Skóra, Jiangbo Wu, Daniel Beckett, Weizhi Xure, Gregory A. Voth, Tamara C. Bidone"
 paperurl: 'https://doi.org/10.1016/j.bpj.2025.07.003'
-citation: 'Skóra T., Wu, J., Beckett, D., Xue, W, Voth, G. A.. & Bidone, T. C. On the Curvature and Relaxation of Microtubule Plus-end Tips. Biophysical Journal (2025)'
+citation: 'Skóra T., Wu, J., Beckett, D., Xue, W, Voth, G. A.. & Bidone, T. C. On the Curvature and Relaxation of Microtubule Plus-end Tips. Biophysical Journal 125, 406-419 (2026)'
 research: "cg"
 ---
 [Access paper here](https://doi.org/10.1016/j.bpj.2025.07.003){:target="_blank"}
