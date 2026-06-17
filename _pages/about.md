@@ -18,3 +18,6 @@ I completed my PhD at the Institute of the Physical Chemistry of the Polish Acad
 I then held a postdoctoral research associate position in [Bidone's lab](https://bidone.bme.utah.edu/) at the Scientific Computing and Imaging Institute, University of Utah
 
 Our group’s current research is supported by the Polish Returns grant from the Polish National Agency for Academic Exchange (NAWA).
+I am currently looking for a postdoctoral researcher to join the project “From Coarse Grains to Atoms and Back: A Rigorous Multiscale
+Modeling Approach to Diffusion Under Macromolecular Crowding”.
+For eligibility criteria and application details, please check the [official announcement](https://konkursydlanauczycieli.uw.edu.pl/api/document/3993/datafile/pdf).
