@@ -1,5 +1,5 @@
 ---
-title: "Coarse-grained simulations of proteins and protein polymers"
+title: "Coarse-grained simulations of proteins and protein assemblies"
 excerpt: ""
 collection: portfolio
 ---
